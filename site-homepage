@@ -1,13 +1,22 @@
 <!DOCTYPE html>
 <head>
-	<title>Music at Cambridge</title>
-	<link width=2380px height=2700px href="stylesheet.css" rel="stylesheet" type="text/css">
+	<title>Cambridge Music Hub</title>
+	<link href="stylesheet.css" rel="stylesheet" type="text/css">
 </head>
 <body>
   <header>  
-	<h1>Cambridge Music Hub</h1>
+	<h1>CAMBRIDGE MUSIC HUB</h1>
   </header>
   <div class="concerts-button">
-    <h2>Concerts</h2>
+    <h2 class="button-text">Concerts</h2>
+  </div>
+  <div class="evensongs-button">
+    <h2 class="button-text">Choral Evensongs</h2>
+  </div>
+  <div class="ensembles-button">
+    <h2 class="button-text">College Music Ensembles</h2>
+  </div>
+  <div class="contact-button">
+    <h2 class="button-text">Contact us</h2>
   </div>
 </body>
