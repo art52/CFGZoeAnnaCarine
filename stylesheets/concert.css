@@ -1,0 +1,23 @@
+
+body {
+	background: ".../Graphics/homepage-background.jpg"
+
+}
+h1 {
+	color: white;
+	text-align: center;
+}
+ul {
+      padding: 10px;
+      background: black;
+    }
+li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
+.nav {
+	display: inline-block;
+	margin:0 auto;
+	background-color: black;
+
+}
