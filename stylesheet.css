@@ -14,6 +14,8 @@ body {
 	background-position: center;
 }
 .concerts-button {
-	margin: 0 auto;
-	border-radius: 20px;
+	background: url("./Graphics/homepage-concerts-button.jpg");
+	padding: 20px;
+	max-width: 300px;
+}
 }

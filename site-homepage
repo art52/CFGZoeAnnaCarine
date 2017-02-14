@@ -8,6 +8,6 @@
 	<h1>Cambridge Music Hub</h1>
   </header>
   <div class="concerts-button">
-    <img src="./Graphics/homepage-concerts-button.jpg"
+    <h2>Concerts</h2>
   </div>
 </body>
