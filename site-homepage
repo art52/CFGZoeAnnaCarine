@@ -1,9 +1,9 @@
-
+<!DOCTYPE html>
 <head>
 	<title>Music at Cambridge</title>
 </head>
-
 <body>
-	<h1>Guide to Music at Cambridge</h1>
-
+  <header>  
+	<h1>Cambridge Music Hub</h1>
+  </header>
 </body>
