@@ -1,9 +1,13 @@
 <!DOCTYPE html>
 <head>
 	<title>Music at Cambridge</title>
+	<link width=2380px height=2700px href="stylesheet.css" rel="stylesheet" type="text/css">
 </head>
 <body>
   <header>  
 	<h1>Cambridge Music Hub</h1>
   </header>
+  <div class="concerts-button">
+    <img src="./Graphics/homepage-concerts-button.jpg"
+  </div>
 </body>
